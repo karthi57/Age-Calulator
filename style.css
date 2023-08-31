@@ -9,32 +9,26 @@ body {
   display: grid;
   place-items: center;
   margin-top: 10%;
-
-  
- 
 }
 
-h1{
+
+h1 {
     text-align: center;
     color: #0a0a0a;
-
 }
 
-.container{
+
+.container {
      
-     background-image: radial-gradient(
+    background-image: radial-gradient(
         circle 369px at -2.9% 9.9%,
         rgba(247,234,163,1) 5%,
         rgba(247, 157, 250, 0.56) 40.6%,
-        rgba(163,203,247,1)139.7%
-    ); 
+        rgba(163,203,247,1)139.7% ); 
     padding: 20px;
     border-radius: 10px;
-    /* margin: 0 20px; */
     width: 400px;
     box-shadow: 5px 15px 30px rgba(128,128,128,0.384);
-
-
 }
 
 label{
@@ -42,8 +36,7 @@ label{
     font-weight: 500;
     margin-right: 9px;
     color: #0a0a0a;
-   
-}
+   }
 
 
 input{
@@ -53,7 +46,6 @@ input{
     outline: none;
     border-radius: 10px;
     background-color: #fef6f6;
-    
     color: #616161;
  
 }
@@ -86,9 +78,6 @@ button{
 
 span{
     font-weight: bold;
-    
-    
-
 }
 
 ul{
